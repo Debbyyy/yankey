@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+header {
+    background-color: #555;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+section {
+    margin: 10px;
+    /* justify-content: center; */
+}
+h2 {
+    text-align: center;
+}
+.radio {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.btn {
+    background-color: blue;
+    color: #fff;
+    padding: 12px;
+    margin: 3px;
+}
